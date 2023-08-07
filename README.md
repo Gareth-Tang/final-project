@@ -81,14 +81,6 @@ The single biggest problem teams face is starting out with a data model that is 
 4. Emphasise quality over quantity.
 
 
-## End of Hackathon
-
-1. You will be asked to submit the URLs of your bitbucket repositories.
-
-2. You will be asked to give your instructor a quick rundown of the status of your code.
-
-3. You will be asked about your task list. TODO, in progress, done. 
-
 ## Project Presentations
 
 At the end of the program you will get the opportunity to present your project to your instructors and also potentially your manager and other interested stakeholders from within the firm.
@@ -115,6 +107,7 @@ Here are some guidelines for the presentation. Your instructor might also emphas
 * The presentation will NOT be allowed to overrun to ensure we keep to time
 * The presentation schedule is sent out to wider firm staff so they know when to come if someone wants to see your presentation
 * When a group says "any questions?", to avoid any unnecessary silences, the group that went before you MUST ask a question. If you are going first, then the group scheduled last must ask a question
+* If your class is using them, your virtual machines will be available for the presentation
 
 
 
@@ -151,3 +144,33 @@ Just to repeat.... This is NOT what is expected, it is simply here to give ideas
 ### Appendix C: Useful links
 
 Simple UI that reads live price data from yahoo finance and displays it in a web page: https://bitbucket.org/fcallaly/simple-price-ui
+
+##
+### Appendix D: Financial Data
+
+You can get Financial data from Yahoo. 
+
+#### Python Projects
+
+Using Python, you can access the Yahoo API using code like this:
+
+```
+import time
+from datetime import datetime
+import pandas as pd
+
+dt = datetime(2023, 1, 1)
+start_date = int(round(dt.timestamp()))
+
+dt = datetime(2023, 3, 31)
+end_date = int(round(dt.timestamp()))
+
+stock = 'GOOG'
+
+df = pd.read_csv(f"https://query1.finance.yahoo.com/v7/finance/download/{stock}?period1={start_date}&period2={end_date}&interval=1d&events=history&includeAdjustedClose=true",
+    parse_dates = ['Date'], index_col='Date')
+
+```
+
+You could also explore the Python Library specifically designed to work with Yahoo: https://pypi.org/project/yfinance/
+
