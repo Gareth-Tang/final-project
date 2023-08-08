@@ -122,7 +122,7 @@ Your team can use a task management system such as Trello to keep track of tasks
 
 Your team should keep track of all source code with git.
 
-You may choose to create a separate bitbucket repository for each component that you tackle e.g. front-end code can be in its own repository. If you create more than one spring-boot application, then each can have its own bitbucket repository. To keep track of your repositories, you can use a single bitbucket 'Project' that each of your repositories is part of.
+You may choose to create a separate bitbucket repository for each component that you tackle e.g. front-end code can be in its own repository. If you create more than one back end  application, then each can have its own bitbucket repository. To keep track of your repositories, you can use a single bitbucket 'Project' that each of your repositories is part of.
 
 Your instructor and team members need to access all repositories, so they should be either 
 
