@@ -174,3 +174,11 @@ df = pd.read_csv(f"https://query1.finance.yahoo.com/v7/finance/download/{stock}?
 
 You could also explore the Python Library specifically designed to work with Yahoo: https://pypi.org/project/yfinance/
 
+### Sample REST API
+
+We have created a sample API that you can interact with to get dummy financial data.
+
+https://c4rm9elh30.execute-api.us-east-1.amazonaws.com/default/cachedPriceData?ticker=TSLA
+
+It's caching price data from yahoo in the background so it doesn't do excess requests to yahoo. Only a few tickers are there by default. Tickers are: C, AMZN, TSLA, FB, AAPL
+
