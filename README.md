@@ -1,4 +1,21 @@
-# Portfolio Management API Project
+# Portfolio Manager Training Project
+
+- [Portfolio Manager Training Project](#portfolio-manager-training-project)
+  - [Overview](#overview)
+  - [Technical Goals](#technical-goals)
+  - [Notes](#notes)
+  - [Technical Getting Started Checklist](#technical-getting-started-checklist)
+  - [Project Management Getting Started Checklist](#project-management-getting-started-checklist)
+  - [Suggestions for Success](#suggestions-for-success)
+  - [Project Presentations](#project-presentations)
+    - [Presentation Guidelines](#presentation-guidelines)
+    - [Presentation Mechanics](#presentation-mechanics)
+  - [Appendix A: Notes on Teamwork](#appendix-a-notes-on-teamwork)
+  - [Appendix B: UI Ideas](#appendix-b-ui-ideas)
+  - [Appendix C: Useful links](#appendix-c-useful-links)
+  - [Appendix D: Financial Data](#appendix-d-financial-data)
+    - [Python Projects](#python-projects)
+    - [Sample REST API](#sample-rest-api)
 
 ## Overview
 
@@ -92,33 +109,33 @@ The duration of your presentation will be decided by your instructor, but they a
 Here is a suggested flow. You don't have to follow this exactly, but it gives you a suggested outline:
 
 
-* Tell a story!
-  * Your presentation should have a beginning, a middle and an end
-* Start by introducing your team
-* Then introduce the project
-  * What have you been learning?
-  * What were you asked to do?
-  * How much time have you had to work on it?
-* Then explain how you approached the project
-  * Did you divide roles, e.g. backend or frontend?
-  * Or did you code together, e.g. pair-programming?
-  * What technologies and tools did you use?
-* Then show what you built
-  * Start with an overview of your data model – explain your decisions
-  * Then show a high-level architecture of your application
-    * This could be a simple diagram in PowerPoint
-  * Then give us a live demonstration of your application
-* Then tell us what challenges you faced
-  * Did you work well together as a team?
-  * Were there any technical challenges?
-  * What mistakes did you make?
-  * What would you do differently?
-* Then tell us what you would do next if you had more time
-* And finally – thank you for listening, any questions
+- Tell a story!
+  - Your presentation should have a beginning, a middle and an end
+- Start by introducing your team
+- Then introduce the project
+  - What have you been learning?
+  - What were you asked to do?
+  - How much time have you had to work on it?
+- Then explain how you approached the project
+  - Did you divide roles, e.g. backend or frontend?
+  - Or did you code together, e.g. pair-programming?
+  - What technologies and tools did you use?
+- Then show what you built
+  - Start with an overview of your data model – explain your decisions
+  - Then show a high-level architecture of your application
+    - This could be a simple diagram in PowerPoint
+  - Then give us a live demonstration of your application
+- Then tell us what challenges you faced
+  - Did you work well together as a team?
+  - Were there any technical challenges?
+  - What mistakes did you make?
+  - What would you do differently?
+- Then tell us what you would do next if you had more time
+- And finally – thank you for listening, any questions
 
-Everyone is expected to speak
-Keep your cameras on throughout the presentation
-NOTE: YOU WILL BE EXPECTED TO ASK OTHER TEAMS QUESTIONS
+- Everyone is expected to speak
+- Keep your cameras on throughout the presentation
+- NOTE: YOU WILL BE EXPECTED TO ASK OTHER TEAMS QUESTIONS
 
 
 ### Presentation Mechanics
@@ -131,9 +148,7 @@ NOTE: YOU WILL BE EXPECTED TO ASK OTHER TEAMS QUESTIONS
 * If your class is using virtual machines then they will continue to be available for the presentation
 
 
-
-##
-### Appendix A: Notes on Teamwork
+## Appendix A: Notes on Teamwork
 
 It is expected that you work closely as a team during this project.
 
@@ -152,8 +167,7 @@ b) Shared with your instructor and all team members.
 
 Throughout your work, you should ensure good communication and organise regular check-ins with each other.
 
-##
-### Appendix B: UI Ideas
+## Appendix B: UI Ideas
 
 The screen below might give you some ideas about User Interfaces. You are DEFINITELY NOT expected to implement the screen below exactly as it is shown. This is JUST FOR DEMONSTRATION of the type of thing that COULD be shown.
 
@@ -161,17 +175,15 @@ Just to repeat.... This is NOT what is expected, it is simply here to give ideas
 
 ![Demonstration Portfolio UI](https://www.benivade.com/neueda-training/Tech2020/DemoPortfolioScreen.png)
 
-##
-### Appendix C: Useful links
+## Appendix C: Useful links
 
 Simple UI that reads live price data from yahoo finance and displays it in a web page: https://bitbucket.org/fcallaly/simple-price-ui
 
-##
-### Appendix D: Financial Data
+## Appendix D: Financial Data
 
 You can get Financial data from Yahoo. 
 
-#### Python Projects
+### Python Projects
 
 Using Python, you can access the Yahoo API using code like this:
 
