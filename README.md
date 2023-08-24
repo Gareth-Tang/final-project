@@ -95,26 +95,26 @@ Here is a suggested flow. You don't have to follow this exactly, but it gives yo
 
 
 - Tell a story!
-  - Your presentation should have a beginning, a middle and an end
+    - Your presentation should have a beginning, a middle and an end
 - Start by introducing your team
 - Then introduce the project
-  - What have you been learning?
-  - What were you asked to do?
-  - How much time have you had to work on it?
+    - What have you been learning?
+    - What were you asked to do?
+    - How much time have you had to work on it?
 - Then explain how you approached the project
-  - Did you divide roles, e.g. backend or frontend?
-  - Or did you code together, e.g. pair-programming?
-  - What technologies and tools did you use?
+    - Did you divide roles, e.g. backend or frontend?
+    - Or did you code together, e.g. pair-programming?
+    - What technologies and tools did you use?
 - Then show what you built
-  - Start with an overview of your data model – explain your decisions
-  - Then show a high-level architecture of your application
-    - This could be a simple diagram in PowerPoint
-  - Then give us a live demonstration of your application
+    - Start with an overview of your data model – explain your decisions
+    - Then show a high-level architecture of your application
+      - This could be a simple diagram in PowerPoint
+    - Then give us a live demonstration of your application
 - Then tell us what challenges you faced
-  - Did you work well together as a team?
-  - Were there any technical challenges?
-  - What mistakes did you make?
-  - What would you do differently?
+    - Did you work well together as a team?
+    - Were there any technical challenges?
+    - What mistakes did you make?
+    - What would you do differently?
 - Then tell us what you would do next if you had more time
 - And finally – thank you for listening, any questions
 
