@@ -168,9 +168,17 @@ Simple UI that reads live price data from yahoo finance and displays it in a web
 
 You can get Financial data from Yahoo. 
 
+### Java Projects
+For those of you using Java, you might like to explore:
+
+https://github.com/sstrickx/yahoofinance-api
+
+
+
+
 ### Python Projects
 
-Using Python, you can access the Yahoo API using code like this:
+For those of you using Python, you can access the Yahoo API using code like this:
 
 ```
 import time
