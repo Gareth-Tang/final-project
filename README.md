@@ -87,7 +87,7 @@ The single biggest problem teams face is starting out with a data model that is 
 
 At the end of the program you will get the opportunity to present your project to your instructors and also potentially your manager and other interested stakeholders from within the firm.
 
-The duration of your presentation will be decided by your instructor, but they are typically 20 mins for groups of 3 and sometimes up to 25 or even 30 minutes for larger groups.
+The duration of your presentation will be decided by your instructor, but they are typically 15-20 mins for groups of 3 and sometimes up to 25 or even 30 minutes for larger groups.
 
 ### Presentation Guidelines
 
@@ -126,7 +126,7 @@ Here is a suggested flow. You don't have to follow this exactly, but it gives yo
 ### Presentation Mechanics
 
 * Depending upon the size of your class, the presentations will be delivered in breakout rooms with your groups nominated lead instructor
-* The lead instructor will typically have created a schedule for the presentations and will have circulated that in advance with 20-30 mins per group
+* The lead instructor will typically have created a schedule for the presentations and will have circulated that in advance with 15-30 mins per group
 * The presentation will NOT be allowed to overrun to ensure we keep to time
 * The presentation schedule is sent out to wider firm staff so they know when to come if someone wants to see your presentation
 * When a group says "any questions?", to avoid any unnecessary silences, the group that went before you MUST ask a question. If you are going first, then the group scheduled last must ask a question
@@ -143,7 +143,7 @@ Your team can use a task management system such as Trello to keep track of tasks
 
 Your team should keep track of all source code with git.
 
-You may choose to create a separate bitbucket repository for each component that you tackle e.g. front-end code can be in its own repository. If you create more than one back end  application, then each can have its own bitbucket repository. To keep track of your repositories, you can use a single bitbucket 'Project' that each of your repositories is part of.
+You may choose to create a separate repository for each component that you tackle e.g. front-end code can be in its own repository. If you create more than one back end  application, then each can have its own repository. To keep track of your repositories, you can use a single 'Project' that each of your repositories is part of.
 
 Your instructor and team members need to access all repositories, so they should be either 
 
@@ -172,8 +172,6 @@ You can get Financial data from Yahoo.
 For those of you using Java, you might like to explore:
 
 https://github.com/sstrickx/yahoofinance-api
-
-
 
 
 ### Python Projects
