@@ -47,13 +47,13 @@ In terms of detailed requirements, your instructor will act as customer, and wil
 
 1. Create your project structure.
 
-2. Create a bitbucket repository.
+2. Create a Git repository. Your instructors will guide you as to which Git platform to use.
 
-3. Add, commit, push your skeleton project to your bitbucket repository.
+3. Add, commit, push your skeleton project to your Git repository.
 
-4. Ensure your team has access to the bitbucket repository.
+4. Ensure your team has access to the Git repository.
 
-5. Decide on the absolute MINIMUM fields for a first working system e.g. the first version of your model object may just be an id,  stockTicker and volume.
+5. Decide on the absolute MINIMUM fields for a first working system e.g. the first version of your model object may just be an id, stockTicker and volume.
 
 If you get stuck getting any of the above completed then contact your instructor for help.
 
